@@ -1,2 +1,3 @@
-# reparatur-melder
-sub-page die reparatur-meldungen aufnimmt
+# Reparatur-Melder
+
+Die vollständige, eigenständige Website liegt im Unterordner `reparatur-melder`.
